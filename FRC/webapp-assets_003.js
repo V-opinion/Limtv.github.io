@@ -1,2 +1,0 @@
-AppRegistry.registerBundle({applicationId:'custom.socialdemokraterna.redirectToMainDomain|1.1.0',bundle: {}});
-AppRegistry.registerModule({applicationId:'custom.socialdemokraterna.redirectToMainDomain|1.1.0',path:'/main',module:function(define){'use strict';}});
